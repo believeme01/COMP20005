@@ -1,0 +1,33 @@
+Stage 1
+==========
+Total number of EVs: 19102
+Maximum number of EVs: 396 at (00, 02)
+
+Stage 2
+==========
+E D D C C C C B B B C
+E D C B B B C B A A B
+E D C B A A B B A B B
+E D C B A B C C B A A
+E D C C B B B B B A B
+E E D C C B A A B B C
+F E E D C B A B C C D
+
+Stage 3
+==========
+E D D C C C C B B B C
+E D C B B B C B A A B
+E D C B A A B B A A B
+E D C B A B C B B A A
+E D C C B B B B B A B
+E E D C C B A A B B C
+F E E D C B A B C C D
+
+Stage 4
+==========
+Candidate #117 at (02.2, 08.8): 1166
+Candidate #248 at (03.2, 00.5): 4776
+Candidate #264 at (03.8, 06.6): 1595
+Candidate #363 at (01.9, 00.7): 5209
+Candidate #555 at (04.3, 09.2): 2541
+Most beneficial candidate location: #363
